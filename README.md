@@ -151,7 +151,13 @@ Note: we are also working with multi-sensory data, as this is also in an early s
 Let's make a table surveying the landscape of spatial illustration tools & a more detailed study of existing file formats and changes that could be made.
 
 ## Definitions & Scope for first version of file format
-It will be helpful to
+It will be helpful to figure out the limit of what we want to support right now vs. not.
+Seems like
+1. "render lines and fills at all" in WebXR is a good place to start
+2. building up to data that's already part of spatial illustration tools
+3. add shaders
+4. Communicate with social VR programs & existing file format projects for supporting lines & fills better.
+5. Share articles and information about what we are learning and any difficulties. 
 
 ### Points & Buffers
 Point data - a series of x, y, z coordinate data.
