@@ -157,7 +157,7 @@ Seems like
 2. building up to data that's already part of spatial illustration tools
 3. add shaders
 4. Communicate with social VR programs & existing file format projects for supporting lines & fills better.
-5. Share articles and information about what we are learning and any difficulties. 
+5. Share articles and information about what we are learning and any difficulties.
 
 ### Points & Buffers
 Point data - a series of x, y, z coordinate data.
@@ -177,12 +177,16 @@ We intend to include the following data for each line.
   For the first version of this specification we are focusing on these items.
 
 ## Not a priority right now
-There are additional line values that have implications for 3d rendering, but we are not going to worry about these right now, because we are more focused on just supporting lines, fills, strokes.
+There are additional values for lines & implications for 3d rendering of lines, but we are not going to worry about these right now. We are more focused on just supporting lines, fills, strokes, at all.
+
+Line effects
   * End caps
   * Brush shape
   * Tapering
   * Thickness & thinness algorithms
-  * Ray casting - we assume that a point-cloud hull can provide enough boundaries for detecting intersections.
+
+3d rendering problems  
+  * Ray casting - we assume that a point-cloud hull can provide enough boundaries for detecting intersections. We are not focusing on making painting tools, but rather publishing the paintings into the digital world in mixed-media, dynamic contexts.
 
 ### Fills  
 Fills are point data for faces
