@@ -176,18 +176,6 @@ We intend to include the following data for each line.
 
   For the first version of this specification we are focusing on these items.
 
-## Not a priority right now
-There are additional values for lines & implications for 3d rendering of lines, but we are not going to worry about these right now. We are more focused on just supporting lines, fills, strokes, at all.
-
-Line effects
-  * End caps
-  * Brush shape
-  * Tapering
-  * Thickness & thinness algorithms
-
-3d rendering problems  
-  * Ray casting - we assume that a point-cloud hull can provide enough boundaries for detecting intersections. We are not focusing on making painting tools, but rather publishing the paintings into the digital world in mixed-media, dynamic contexts.
-
 ### Fills  
 Fills are point data for faces
   * material color
@@ -225,6 +213,18 @@ There are also times when your animation runs dynamically (generative art), or i
 For some instances, line art might be all we are sharing in a social VR context, with limited meshes. Because of this, we expect that sharing line art will be performant-enough. The workflow of creating spatial art is still being developed, taught, and explored.
 
 One area that would be helpful will be "Symbol" clones (like in Adobe Illustrator and other programs) for repeating 3d textures. One method for building up spatial lines is to clone your lines, sometimes a lot. This makes the biggest 'mess' of data and most design libraries insist on creating references to our symbols. These are basically 3d stamps.
+
+## Not a priority right now
+There are additional values for lines & implications for 3d rendering of lines, but we are not going to worry about these right now. We are more focused on just supporting lines, fills, strokes, at all.
+
+Line effects
+  * End caps
+  * Brush shape
+  * Tapering
+  * Thickness & thinness algorithms
+
+3d rendering problems  
+  * Ray casting - we assume that a point-cloud hull can provide enough boundaries for detecting intersections. We are not focusing on making painting tools, but rather publishing the paintings into the digital world in mixed-media, dynamic contexts.
 
 First drafted by Chach Sikes, 9/1/2020, Los Angeles, CA.
 chacha@redbeakstudio.com
