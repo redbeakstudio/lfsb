@@ -1,4 +1,4 @@
-# .lfsb
+# LFSB (.lfsb)
 File format specification for animated, spatial line-art with shader brushes for 3d and social VR.
 
 # Name
