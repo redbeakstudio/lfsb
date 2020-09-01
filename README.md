@@ -79,7 +79,7 @@ If you would like to work on that together, please reach out. We also have a pla
 Our experiments are being documented @redbeakstudio on instagram (under highlighted stories: QMN and Storybox.)
 
 ## Articles
-* https://mattdesl.svbtle.com/drawing-lines-is-hard - Review from 2015. For porting Blender Grease Pencil lines to ThreeJS, we are adapting https://github.com/spite/THREE.MeshLine to support line weight, fills, etc. Blender is still actively developing and improving fills. We seem to be at the beginning of this & we are VERY inspired by @dedouze & have studied his Grease Pencil artwork & have been trying to public spatial line art out of Blender ever since.
+* https://mattdesl.svbtle.com/drawing-lines-is-hard - Review from 2015. For porting Blender Grease Pencil lines to ThreeJS, we are adapting https://github.com/spite/THREE.MeshLine to support line weight, fills, etc. Blender is still actively developing and improving fills. We seem to be at the beginning of this & we are VERY inspired by @dedouze & have studied his Grease Pencil artwork & have been trying to publish spatial line art out of Blender ever since.
 
 The dream here is really 4d social multisensory "web comics" for VR.
 
@@ -101,7 +101,7 @@ Like a GLB file or Lottie file, we should be able to play, pause or stop the ani
 ## Environment & Ecosystems
 For our purposes, we want the benefits of working with the web: dynamic data, visible source code, social, networked, etc, and we want to be able to be in VR (or not) while making these decisions. This needs to work in a hybrid environment (Mac & PC, Mobile, Tablet & Desktop, Cloud and Local, with and without headsets)
 
-Gravity Sketch (based in UK) is created by designers and they (GS) understands this problem space. Figma also understands that the design process is social and collaborative, and web developer/designers are used to working with a wide variety of platforms, responsive designs, and an array of presentations formats. This seems to be a difference with game developers, who have other requirements (performance, rendering, hardware limits) and animators (who focus on 'whatever gets the shot.')
+Gravity Sketch (based in UK) is created by designers and they (GS) understand this problem space. Figma also understands that the design process is social and collaborative, and web developer/designers are used to working with a wide variety of platforms, responsive designs, and an array of presentations formats. This seems to be a difference with game developers, who have other requirements (performance, rendering, hardware limits) and animators (who focus on 'whatever gets the shot.')
 
 Designers, writers, storyboard artists, animators, architects, illustrators, set designers, concept artists would benefit from lines and fills being better supported in spatial computing.
 
