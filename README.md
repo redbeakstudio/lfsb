@@ -145,7 +145,7 @@ Gravity Sketch example file:
 Finally, we want artists to be able to speak up and weigh in on how their strokes are rendered in VR.
 We are hosting monthly art clubs where we work specifically on this problem for 2020-2021, and will try different methods in collaboration with studios, animators.
 
-Note: we are also working with multi-sensory data, as this is also in an early stage of support in social VR. Part of this need to draw lines came from wanting to mock up synesthetic experiences, and also communicate 'vapor clouds' using Tiltbrush shaders, which meant learning how many problems there can be.
+Note: we are also working with multi-sensory data, as this is also in an early stage of support in social VR. Part of this need to draw lines came from wanting to mock up synesthetic experiences, and also communicate 'vapor clouds' using Tiltbrush shaders, which meant learning how many problems there can be in this space.
 
 ## Table of spatial XR programs and tools & support for lines, fills, shaders & brushes.
 Let's make a table surveying the landscape of spatial illustration tools & a more detailed study of existing file formats and changes that could be made.
